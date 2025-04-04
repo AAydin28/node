@@ -1,0 +1,10 @@
+[
+  {
+    "id": 1,
+    "mesaj": " Bu benim ilk Node.js dosyam!"
+  },
+  {
+    "id": 2,
+    "mesaj": "Merhaba, bu bir test mesajıdır!"
+  }
+]
